@@ -1,0 +1,18 @@
+name: astrbot_plugin_mc_server_query
+display_name: MC服务器信息查询
+short_desc: 通过自然语言查询 Minecraft 服务器状态
+desc: |
+  一个为 AstrBot 设计的轻量级 Minecraft 服务器查询插件。
+  支持通过自然语言对话查询 Java 版 MC 服务器的在线人数、MOTD、版本和延迟，并将数据交由大模型组织语言回复。
+version: 1.0.0
+author: f1owey
+repo: https://github.com/f1owey/astrbot-plugin-mc-server-query
+astrbot_version: ">=4.17.0"
+support_platforms:
+  - qq_official
+tags:
+  - minecraft
+  - mc
+  - 我的世界
+  - 游戏
+  - 查询

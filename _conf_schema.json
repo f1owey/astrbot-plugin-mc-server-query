@@ -1,0 +1,7 @@
+{
+  "default_server": {
+    "description": "绑定的MC服务器IP",
+    "type": "string",
+    "default": "mc.hypixel.net"
+  }
+}
